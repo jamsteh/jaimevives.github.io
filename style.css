@@ -1,0 +1,20 @@
+body{
+	background-color: #f4f4f4;
+	font-family: Courier, Arial, sans-serif;
+	font-size: 16px;
+	font-weight: normal;
+	/* Same as above */
+	font: normal 16px Courier, Arial, sans-serif;
+
+	line-height: 1.6em;
+	margin: 0;
+}
+
+.namebox{
+	margin: auto;
+	border: 5px black solid;
+	padding: 5px;
+	width: 270px;
+	background-color: #000;
+	color: #fff;
+}

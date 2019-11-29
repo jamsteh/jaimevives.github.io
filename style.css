@@ -1,20 +1,37 @@
 body{
 	background-color: #f4f4f4;
-	font-family: Courier, Arial, sans-serif;
+	font-family: Roboto, Arial, sans-serif;
 	font-size: 16px;
 	font-weight: normal;
 	/* Same as above */
-	font: normal 16px Courier, Arial, sans-serif;
+	font: normal 16px 'Heebo', Arial, sans-serif;
 
 	line-height: 1.6em;
-	margin: 0;
+	margin: 5px;
 }
 
 .namebox{
 	margin: auto;
+	font-size: 20px;
 	border: 5px black solid;
 	padding: 5px;
-	width: 270px;
-	background-color: #000;
-	color: #fff;
+	width: 290px;
+/*	background-color: #000;
+	color: #fff;*/
+}
+
+.navbar ul{
+	padding:0 ;
+	list-style: none;
+}
+
+.navbar li{
+	display:inline ;
+}
+
+.navbar a{
+	margin: 10%;
+	text-decoration: underline;
+	font-size: 18px;
+	color: #000;
 }

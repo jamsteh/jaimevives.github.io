@@ -18,7 +18,7 @@ body{
 	color: #000;
 	border: 5px;
 	padding: 5px;
-	width: 30%;
+	width: 40%;
 	margin: 0;
 	position: absolute;
 	top: 50%;
@@ -30,19 +30,26 @@ body{
 }
 
 .navbar ul{
-	padding:0 ;
-	list-style: none;
+	padding:0;
+	margin:0;
+	list-style-type:none;
+    text-align:center;
 }
 
 .navbar li{
-	display:inline ;
+	display: inline-block;
 }
 
 .navbar a{
-	margin: 10%;
 	text-decoration: none;
+	transition: color 0.2s ease;
+	padding: 20px 80px;
 	text-align: center;
 	font-size: 18px;
 	font-weight: bold;
 	color: #000;
+}
+
+.navbar a:hover{
+	color: #0062ff;
 }

@@ -1,21 +1,30 @@
 body{
-	background-color: #f4f4f4;
+	background-color: #1e1e1eff;
+	background-image: url("nasa-lEBDlbXLEgs-unsplash.jpg");
+	background-position: center;
 	font-family: Roboto, Arial, sans-serif;
 	font-size: 16px;
 	font-weight: normal;
 	/* Same as above */
-	font: normal 16px 'Heebo', Arial, sans-serif;
+	font: normal 16px 'IBM Plex Sans', Arial, sans-serif;
 
 	line-height: 1.6em;
 	margin: 5px;
 }
 
 .namebox{
-	margin: auto;
-	font-size: 20px;
-	border: 5px black solid;
+	text-align: center;
+	font: normal 30px 'IBM Plex Sans', Arial, sans-serif;
+	color: #000;
+	border: 5px;
 	padding: 5px;
-	width: 290px;
+	width: 30%;
+	margin: 0;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	-ms-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
 /*	background-color: #000;
 	color: #fff;*/
 }
@@ -31,7 +40,9 @@ body{
 
 .navbar a{
 	margin: 10%;
-	text-decoration: underline;
+	text-decoration: none;
+	text-align: center;
 	font-size: 18px;
+	font-weight: bold;
 	color: #000;
 }

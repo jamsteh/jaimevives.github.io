@@ -29,6 +29,23 @@ body{
 	color: #fff;*/
 }
 
+.introduction{
+	text-align: center;
+	position: absolute;
+	top: 100%;
+	left: 50%;
+	width: 40%;
+	margin:0;
+	-ms-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+}
+
+.navbar{
+	position: sticky;
+	position: -webkit-sticky;
+	top: 0; /* required */
+}
+
 .navbar ul{
 	padding:0;
 	margin:0;
@@ -43,7 +60,7 @@ body{
 .navbar a{
 	text-decoration: none;
 	transition: color 0.2s ease;
-	padding: 20px 80px;
+	padding: 80px 80px;
 	text-align: center;
 	font-size: 18px;
 	font-weight: bold;

@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Howdy there, you wandering internet nomad! I am a sophomore Aerospace Engineering major currently studying at Texas A&M. This summer, I will be an Explore Intern at Microsoft.
+Howdy there! I am a sophomore Aerospace Engineering major currently studying at Texas A&M. This summer, I will be an Explore Intern at Microsoft.
 
 ## Interested In:
 

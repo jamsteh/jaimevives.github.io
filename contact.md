@@ -9,6 +9,7 @@ is_contact: true
 
 ## Social
 
-1. [GitHub](https://github.com/jamsteh)
-2. [Instagram](https://www.instagram.com/jamsteh/)
-3. [Twitter](https://twitter.com/Jaimeister_)
+1. [LinkedIn](https://www.linkedin.com/in/jaime-a-vives/)
+2. [GitHub](https://github.com/jamsteh)
+3. [Instagram](https://www.instagram.com/jamsteh/)
+4. [Twitter](https://twitter.com/Jaimeister_)

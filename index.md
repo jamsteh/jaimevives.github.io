@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="img/headshot.png">
+<img class="profile-picture" src="{{site.baseurl}}/img/headshot.png">
 
 Howdy there, you wandering internet nomad! I am a sophomore Aerospace Engineering major currently studying at Texas A&M. This summer, I will be an Explore Intern at Microsoft.
 

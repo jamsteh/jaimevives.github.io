@@ -3,7 +3,7 @@ url: "https://jvives.me"
 baseurl: ""
 
 markdown: kramdown
-ins_logo: "./AERO_horiz.png"
+#ins_logo: "./AERO_horiz.png"
 
 tracking_id: #
 

@@ -6,37 +6,19 @@ layout: default
 
 <img class="profile-picture" src="headshot.png">
 
-Howdy! I am a sophomore Aerospace Engineering major currently studying at Texas A&M.
+Howdy there, you wandering internet nomad! I am a sophomore Aerospace Engineering major currently studying at Texas A&M. This summer, I will be an Explore Intern at Microsoft.
 
 ## Interested In:
 
-Software engineering, aerospace research, computer science research
+Software engineering, aerospace research, computer science research, making games
 
 ## Likes:
 
-Bach, the SR-71 Blackbird, coffee
-
-## Typography
-
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
+Dostoyevsky, Bach, the SR-71 Blackbird, coffee
 
 ---
 
-Here is a blockquote
+> Life is a game, boy. Life is a game that one plays according to the rules.
 
-> To a great mind, nothing is little
+-J.D. Salinger
 
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum

@@ -4,6 +4,7 @@ baseurl: ""
 
 markdown: kramdown
 ins_logo: "./AERO_horiz.png"
+profile_pic: "./headshot.png"
 
 tracking_id: #
 

@@ -1,14 +1,13 @@
-title: Jaime Vives
-url: "https://jvives.me"
-baseurl: ""
+title: Researcher
+url: "https://ankitsultana.com"
+baseurl: "/researcher"
 
 markdown: kramdown
-ins_logo: "./AERO_horiz.png"
-profile_pic: "./headshot.png"
+#ins_logo: "./bits-logo.png"
 
 tracking_id: #
 
-footer: no
+footer: yes
 footer_url: "https://github.com/ankitsultana"
 footer_text: "Page design by Ankit Sultana"
 
@@ -18,7 +17,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/"
+   link: "/researcher/"
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
